@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"master add"<<endl;
+    cout<<"branch1 add"<<endl;
     return 0;
 }
